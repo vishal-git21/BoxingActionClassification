@@ -1,4 +1,4 @@
-# BoxingActionClassification
+# Boxing Action Classification
 
 This detailed document outlines the design, methodology, and evaluation of the Boxing Psychological State Tracking System, a comprehensive project utilizing advanced machine learning and visualization techniques to assess boxers' mental and physical conditions. Below is a refined summary of the key aspects:
 
